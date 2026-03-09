@@ -1,5 +1,5 @@
 # IPTV M3U Viewer
-[Demo](https://noerls.github.io/iptv-m3u-viewer)
+[Demo](https://leobacan.github.io/iptv-m3u-viewer/)
 
 Website that parse your IPTV file (M3U) to provide a nice interface to search a channel. Your files are stored locally in the browser storage.
 
